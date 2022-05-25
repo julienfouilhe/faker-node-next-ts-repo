@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "Nodenext",
+    "target": "es2022",
+    "noEmit": true,
+    "strict": true
+  },
+  "files": ["index.ts"],
+}

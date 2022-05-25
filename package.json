@@ -1,0 +1,16 @@
+{
+  "name": "faker-node-next-ts-repo",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:julienfouilhe/faker-node-next-ts-repo.git",
+  "author": "Julien Fouilhé <julien.fouilhe@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.7.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "7.0.1"
+  },
+  "packageManager": "yarn@3.2.1"
+}
